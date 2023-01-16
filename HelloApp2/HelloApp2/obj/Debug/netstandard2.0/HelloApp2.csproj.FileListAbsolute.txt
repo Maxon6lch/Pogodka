@@ -1,0 +1,32 @@
+C:\test\HelloApp2\HelloApp2\HelloApp2\bin\Debug\netstandard2.0\HelloApp2.deps.json
+C:\test\HelloApp2\HelloApp2\HelloApp2\bin\Debug\netstandard2.0\HelloApp2.dll
+C:\test\HelloApp2\HelloApp2\HelloApp2\bin\Debug\netstandard2.0\ref\HelloApp2.dll
+C:\test\HelloApp2\HelloApp2\HelloApp2\bin\Debug\netstandard2.0\HelloApp2.pdb
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.AssemblyInfoInputs.cache
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.AssemblyInfo.cs
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.csproj.CoreCompileInputs.cache
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.dll
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\ref\HelloApp2.dll
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.pdb
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\MapsKarta\Karta.xaml.g.cs
+C:\test\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.csproj.AssemblyReference.cache
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\bin\Debug\netstandard2.0\HelloApp2.deps.json
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\bin\Debug\netstandard2.0\HelloApp2.dll
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\bin\Debug\netstandard2.0\HelloApp2.pdb
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.csproj.AssemblyReference.cache
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\MapsKarta\Karta.xaml.g.cs
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.AssemblyInfoInputs.cache
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.AssemblyInfo.cs
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.csproj.CoreCompileInputs.cache
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.dll
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\refint\HelloApp2.dll
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\HelloApp2.pdb
+C:\Users\Athlon\OneDrive\Рабочий стол\HelloApp2\HelloApp2\HelloApp2\obj\Debug\netstandard2.0\ref\HelloApp2.dll
